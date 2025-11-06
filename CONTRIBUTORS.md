@@ -17,3 +17,5 @@ Thank you to everyone who has contributed to this project! Each contribution hel
 
 **Note:** This file is intentionally simple to make it easy for first-time contributors to participate.
 
+
+- YOLO test entry
